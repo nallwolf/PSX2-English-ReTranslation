@@ -4,6 +4,7 @@ English translation for the 2.11 XMB on the PSX (DVR). </br>
 Tested on a PSX DESR-7500 with Firmware 2.11.
 
 Based on: https://github.com/SvenGDK/PSX-English-Translation/releases
+
 ReTranslation in progress by NallWolf
 
 /!\This translation does overwrite some XML files that include strings not inside .dic files and/or needed positioning edits, please make and keep a backup of your packages folder before installing this translation./!\
