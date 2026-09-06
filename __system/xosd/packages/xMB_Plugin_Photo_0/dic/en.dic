@@ -1,9 +1,0 @@
-﻿<?dic version="1.0" language="en" size="5" ?>
-
-{PhoSet.Label} = "Photo Settings";
-
-{PhoSet.Speed} = "Slideshow Speed";
-
-{PhoSet.Speed.0} = "Slow";
-{PhoSet.Speed.1} = "Medium";
-{PhoSet.Speed.2} = "Fast";
