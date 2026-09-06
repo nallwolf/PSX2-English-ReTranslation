@@ -70,7 +70,7 @@
 		<Bitmap3x3 name="bar0" file="art/FreeSpaceBase.tga" corner_w="0" corner_h="61" h="170" x="174" y="85">
 			<Bitmap name="bar1" file="art/FreeSpaceCurrent.tga" />
 		</Bitmap3x3>
-		<Text  name="text0" str="Disk remaining 100%" x="156" y="-103" rgba="ffffffff" />
+		<Text  name="text0" str="Freespace: 100%" x="156" y="-103" rgba="ffffffff" />
 		<Text name="text1" str="03H02M" x="227" y="-67" rgba="ffffffff" />
 		<Text name="text2" str="04H00M" x="227" y="-38" rgba="ffffffff" />
 		<Text name="text3" str="06H31M" x="227" y="-9" rgba="ffffffff" />
