@@ -12,6 +12,7 @@ The majority of this translation leverages Sony's own support of a hidden langua
 
 ### Installation
 /!\Requires the ability to run wLaunchELF r3z (https://github.com/saildot4k/wLaunchELF_R3Z) and OSDMenu (https://github.com/pcm720/OSDMenu)/!\
+
 0. MAKE SURE YOU HAVE A BACKUP OF YOUR PSX's STOCK xosd FOLDER BEFORE CONTINUING
 1. Copy the folder "__system" to a FAT32 (MBR) formatted USB drive.
 2. Start wLaunchELF on your PSX and go to "mass:/"
