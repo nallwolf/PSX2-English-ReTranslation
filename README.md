@@ -24,4 +24,4 @@ The majority of this translation leverages Sony's own support of a hidden langua
 7. Several overwrite popups will appear -> Confirm with "OK"
 8. After everything has been copied, restart your console or press the "Quit game" button
 9. Launch OSDMenu and change the language to English in System Configuration, then restart or press the "Quit Game" button
-10. The system should be now in English
+10. The XMB should now be in English
