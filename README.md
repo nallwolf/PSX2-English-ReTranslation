@@ -10,22 +10,6 @@ ReTranslation in progress by NallWolf
 
 The majority of this translation leverages Sony's own support of a hidden language setting. After installation, you will need to change the language setting to English using OSDMenu by pcm720 (https://github.com/pcm720/OSDMenu) before the XMB will show in English. This also means you can switch back to Japanese at any point and most of the XMB will be back to stock (except for stuff that was in XMLs).
 
-List of packages ReTranslated as of 0.21:
-Main Dictionary (dic folder next to xosd folder)
-IconEdit_0
-MusicPlayer_0
-TV_Viewer_0
-xMB_FreeSpace_0
-xMB_Plugin_AIDJ_0
-xMB_Plugin_GameBoot_0
-xMB_Plugin_MCUtil_0
-xMB_Plugin_Media_0
-xMB_Plugin_Settings_0
-xMB_Plugin_TVSetup_0
-xMB_Plugin_VideoSetup_0
-
-All other packages are from SvenGDK's translation but have been edited to utilize the language setting.
-
 ### Installation
 /!\Requires the ability to run wLaunchELF r3z (https://github.com/saildot4k/wLaunchELF_R3Z) and OSDMenu (https://github.com/pcm720/OSDMenu)/!\
 0. MAKE SURE YOU HAVE A BACKUP OF YOUR PSX's STOCK xosd FOLDER BEFORE CONTINUING
