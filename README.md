@@ -12,7 +12,7 @@ ReTranslation in progress by NallWolf
 The majority of this translation leverages Sony's own support of a hidden language setting. After installation, you will need to change the language setting to English using OSDMenu by pcm720 (https://github.com/pcm720/OSDMenu) before the XMB will show in English. This also means you can switch back to Japanese at any point and most of the XMB will be back to stock (except for stuff that was in XMLs).
 
 ### Installation
-/!\Requires the ability to run wLaunchELF r3z (https://github.com/saildot4k/wLaunchELF_R3Z) and OSDMenu (https://github.com/pcm720/OSDMenu)/!\
+/!\Requires the ability to run wLaunchELF r3z (https://github.com/saildot4k/wLaunchELF_R3Z) and OSDMenu (https://github.com/pcm720/OSDMenu) /!\
 
 0. MAKE SURE YOU HAVE A BACKUP OF YOUR PSX's STOCK xosd FOLDER BEFORE CONTINUING
 1. Copy the folder "__system" to a FAT32 (MBR) formatted USB drive.
