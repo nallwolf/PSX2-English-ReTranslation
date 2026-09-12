@@ -7,7 +7,7 @@ Based on: https://github.com/SvenGDK/PSX-English-Translation/releases
 
 ReTranslation in progress by NallWolf
 
-/!\This translation does overwrite some XML files that include strings not inside .dic files and/or needed positioning edits, please make and keep a backup of your packages folder before installing this translation./!\
+/!\This translation does overwrite some images and XML files that include strings not inside .dic files and/or needed positioning edits, please make and keep a backup of your packages folder before installing this translation./!\
 
 The majority of this translation leverages Sony's own support of a hidden language setting. After installation, you will need to change the language setting to English using OSDMenu by pcm720 (https://github.com/pcm720/OSDMenu) before the XMB will show in English. This also means you can switch back to Japanese at any point and most of the XMB will be back to stock (except for stuff that was in XMLs).
 
