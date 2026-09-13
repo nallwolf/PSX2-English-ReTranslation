@@ -25,8 +25,8 @@
 
 {Opt.Play} = "Start";
 
-{PleaseWaitForGame} = "Launching the game.\nPlease wait a moment.";
-{StartingGamePleaseWait} = "Launching the game.\nPlease wait a moment.";
+{PleaseWaitForGame} = "Launching the game. Please wait a moment.";
+{StartingGamePleaseWait} = "Launching the game. Please wait a moment.";
 
 {GameDelete.HDD1} = "This game will be deleted from the hard disk.";
 {GameDelete.HDD2} = "Are you sure?";
