@@ -25,11 +25,11 @@
 
 {Opt.Play} = "Start";
 
-{PleaseWaitForGame} = "Please wait for the game to start.";
-{StartingGamePleaseWait} = "\tStarting game. Please wait...";
+{PleaseWaitForGame} = "Launching the game.\nPlease wait a moment.";
+{StartingGamePleaseWait} = "Launching the game.\nPlease wait a moment.";
 
-{GameDelete.HDD1} = "Delete this game from your hard disk.";
-{GameDelete.HDD2} = "Is this OK?";
+{GameDelete.HDD1} = "This game will be deleted from the hard disk.";
+{GameDelete.HDD2} = "Are you sure?";
 
 {Error.BadDisc} = "The disc could not be read.";
 {Error.DiscNoBoot} = "This disc cannot be started.";
