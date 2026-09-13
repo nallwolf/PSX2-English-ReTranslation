@@ -1,0 +1,64 @@
+﻿<?xml version="1.0"?>
+<PSML2>
+<!--Warning Dialog Box-->
+	<Dll name="xWizard/xWizard" version="0.1.0" />
+	<Dll name="xButton/xButton" version="0.1.0" />
+	<Dll name="xText/xText" version="0.1.0" />
+
+	<!-- Exec Disc Game Message-->
+	<Screen name="exec_disc_game" visible="0" z_depth="-1">
+        <Dic name="gameboot" filepath="pack:xMB_Plugin_GameBoot/0.1.0/dic" />
+        <Text str="{gameboot::PleaseWaitForGame}" alignment="center" x="0" y="8"/>
+	</Screen>
+
+	<!-- Exec HDD Boot Message-->
+	<Screen name="exec_hdd" visible="0" z_depth="-1">
+        <Dic name="gameboot" filepath="pack:xMB_Plugin_GameBoot/0.1.0/dic" />
+		<Text str="{gameboot::StartingGamePleaseWait}" alignment="center" x="0" y="8"/>
+	</Screen>
+
+	<!-- EXEAPP_ERR_DISC_GENERIC-->
+	<Screen name="err_disk_generic" visible="0" z_depth="-1">
+        <Dic name="gameboot" filepath="pack:xMB_Plugin_GameBoot/0.1.0/dic" />
+		<Text str="{gameboot::Error.BadDisc}" x="0" y="8" alignment="center"/>
+	</Screen>
+
+	<!-- EXEAPP_ERR_DISC_NOBOOT-->
+	<Screen name="err_disk_noboot" visible="0" z_depth="-1">
+        <Dic name="gameboot" filepath="pack:xMB_Plugin_GameBoot/0.1.0/dic" />
+		<Text str="{gameboot::Error.DiscNoBoot}" x="0" y="8" alignment="center"/>
+	</Screen>
+
+	<!-- EXEAPP_ERR_DISC_ILLEGAL-->
+	<Screen name="err_disk_illegal" visible="0" z_depth="-1">
+        <Dic name="gameboot" filepath="pack:xMB_Plugin_GameBoot/0.1.0/dic" />
+		<Text str="{gameboot::Error.Illegal}" alignment="center" x="0" y="8"/>
+	</Screen>
+
+	<!-- EXEAPP_ERR_HDD_NOBOOT-->
+	<Screen name="err_hdd_noboot" visible="0" z_depth="-1">
+        <Dic name="gameboot" filepath="pack:xMB_Plugin_GameBoot/0.1.0/dic" />
+		<Text str="{gameboot::Error.GameNoBoot}" x="0" y="8" alignment="center"/>
+	</Screen>
+
+	<!-- EXEAPP_ERR_HDD_NODISC-->
+	<Screen name="err_hdd_nodisk" visible="0" z_depth="-1">
+        <Dic name="gameboot" filepath="pack:xMB_Plugin_GameBoot/0.1.0/dic" />
+		<Text str="{gameboot::Error.DiscNeeded}" alignment="center" x="0" y="-2"/>
+		<Text str="{gameboot::Error.InsertDisc}" alignment="center" x="0" y="22"/>
+	</Screen>
+
+	<!-- EXEAPP_ERR_HDD_ANOTHERDISC-->
+	<Screen name="err_hdd_anotherdisk" visible="0" z_depth="-1">
+        <Dic name="gameboot" filepath="pack:xMB_Plugin_GameBoot/0.1.0/dic" />
+		<Text str="{gameboot::Error.WrongDisc}" x="0"  y="8" alignment="center"/>
+	</Screen>
+
+	<!-- EXEAPP_ERR_HDD_CORRUPT-->
+	<Screen name="err_hdd_corrupt" visible="0" z_depth="-1">
+        <Dic name="gameboot" filepath="pack:xMB_Plugin_GameBoot/0.1.0/dic" />
+		<Text str="{gameboot::Error.Corrupt.0}" alignment="center" x="0" y="-2"/>
+		<Text str="{gameboot::Error.Corrupt.1}" alignment="center" x="0" y="22"/>
+	</Screen>
+
+</PSML2>
