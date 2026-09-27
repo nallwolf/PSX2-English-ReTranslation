@@ -8,7 +8,7 @@
 {WARNING_RE_ENCORDING} = "Cannot be changed during optimization.";
 {WARNING_EPG_WORKING} = "Cannot be changed while acquiring program information.";
 {WARNING_WAIT_FOR_A_MINUTE} = "Please wait.";
-{YESNO_OMAKASE_WARNING} = "If you change the settings, you may not be able to use the program guide, Omakase, or Maru Recording\n. \nAre you sure?";
+{YESNO_OMAKASE_WARNING} = "　　　　　　　　　　　　　　　Changing this may make the program guide\n　　　　　　　　　　　　　　　and Omakase Maru-roku unavailable.\n　　　　　　　　　　　　　　　Do you wish to proceed?";
 {SettingName} = "TV Settings";
 {TVSetup_0} = "Manual Channel Setup";
 {TVSetup_1} = "Automatic Channel Scan";
