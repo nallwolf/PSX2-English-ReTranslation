@@ -4,7 +4,7 @@
 {-} = "-";
 {OK} = "Confirm";
 {Cancel} = "Cancel";
-{Delete} = "Delete Reservation";
+{Delete} = "Delete";
 {Enter} = "Enter";
 {Back} = "Return";
 {Close} = "Close";
