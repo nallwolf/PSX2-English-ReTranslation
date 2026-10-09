@@ -1,7 +1,7 @@
 <?dic version="1.0" language="en" size="95"?>
 {COMMON_TEXT_CANCEL} = "Cancel";
 {COMMON_TEXT_CONFIRM} = "Confirm";
-{COMMON_TEXT_OPTION} = "Option";
+{COMMON_TEXT_OPTION} = "Options";
 {VIDEO_TEXT_VIDEO} = "Video";
 {VIDEO_TEXT_DV_DUBBING} = "DV Dubbing";
 {VIDEO_TEXT_BURNDVD} = "Dubbing";
