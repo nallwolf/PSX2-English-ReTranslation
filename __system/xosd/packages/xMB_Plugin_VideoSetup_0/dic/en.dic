@@ -53,14 +53,14 @@
 {VideoSetup_11_2} = "1";
 {VideoSetup_11_3} = "None";
 {VideoSetup_12} = "Titles Available For \nAutomatic Deletion";
-{VideoSetup_12_0} = "Omakase Maru";
+{VideoSetup_12_0} = "Auto Recording";
 {VideoSetup_12_1} = "All";
-{VideoSetup_13} = "Omakase Maru \nMax Recording Time";
+{VideoSetup_13} = "Auto Recording \nMax Recording Time";
 {VideoSetup_13_0} = "More (12 hours)";
 {VideoSetup_13_1} = "Normal (6 hours)";
 {VideoSetup_13_2} = "Less (3 hours)";
 {VideoSetup_13_3} = "Disable";
-{VideoSetup_14} = "Omakase Maru \nChannel Availability";
+{VideoSetup_14} = "Auto Recording \nChannel Availability";
 {VideoSetup_15} = "L2/R2 Button";
 {VideoSetup_15_0} = "Search";
 {VideoSetup_15_1} = "Flash";
