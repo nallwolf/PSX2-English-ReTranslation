@@ -5,9 +5,9 @@
 {VIDEO_TEXT_VIDEO} = "Video";
 {VIDEO_TEXT_DV_DUBBING} = "DV Dubbing";
 {VIDEO_TEXT_BURNDVD} = "Dubbing";
-{VIDEO_TEXT_VIDEORESERVATION} = "Timed Reservation";
-{VIDEO_TEXT_OMAKASE} = "Omakase Maru";
-{VIDEO_TEXT_RESERVATIONLIST} = "Reservation List";
+{VIDEO_TEXT_VIDEORESERVATION} = "Timed Recording";
+{VIDEO_TEXT_OMAKASE} = "Auto Recording";
+{VIDEO_TEXT_RESERVATIONLIST} = "Recording List";
 {VIDEO_TEXT_OPT_ORDER} = "Sort Order";
 {VIDEO_TEXT_OPT_PLAY_RESUME} = "Play/Resume";
 {VIDEO_TEXT_OPT_PLAY} = "Restart";
@@ -21,7 +21,7 @@
 {VIDEO_TEXT_OPT_YAHOO_STOP} = "Cancel Opt.";
 {VIDEO_TEXT_OPT_TITLE_DEL} = "Delete";
 {VIDEO_TEXT_OPT_INFO} = "Information";
-{VIDEO_TEXT_OPT_FORMAT} = "Initialize";
+{VIDEO_TEXT_OPT_FORMAT} = "Format";
 {VIDEO_TEXT_OPT_TITLELIST} = "Title List";
 {VIDEO_TEXT_DISC_BLANK} = "Unformatted";
 {VIDEO_TEXT_DISC_VIDEO} = "DVD Video";
