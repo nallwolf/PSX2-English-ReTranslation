@@ -37,10 +37,10 @@
 {Mon to Fri} = "Mon-Fri";
 {on} = "On";
 {off} = "Off";
-{Timer} = "Timed Reservation";
-{time reservation} = "Timed Reservation";
-{epg reservation} = "Program Guide Reservation";
-{omakase reservation} = "Omakase Reservation";
+{Timer} = "Timed Recording";
+{time reservation} = "Timed Recording";
+{epg reservation} = "Program Guide Recording";
+{omakase reservation} = "Auto Recording";
 {new} = "New";
 {edit} = "Edit";
 {decide} = "Enter";
