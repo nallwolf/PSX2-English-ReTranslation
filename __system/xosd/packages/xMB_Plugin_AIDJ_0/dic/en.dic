@@ -55,7 +55,7 @@
 {DLG_ALREDYUSED} = "The name you entered is already in use.";
 {DLG_ENTERNAME} = "Please change the name.";
 {DLG_INVALID_USE} = "The name you entered is invalid or already in use.";
-{DLG_YEAR} = "Year";
+{DLG_YEAR} = "";
 {DLG_TIMBLE_UNIT} ="kbps";
 {Genre.0} = "No genre";
 {Genre.16} = "Seoul";
