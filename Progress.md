@@ -25,7 +25,6 @@ ChapterList_0/
 
 ConfigEasy_0/
 - [ ] dic/en.dic
-- [ ] ConfigAppDialogs.xml
 - [ ] ConfigEasy.xml
 
 ConfigInit_0/
@@ -57,7 +56,6 @@ epg_0/
 
 HDDPartition_0/
 - [ ] dic/en.dic
-- [ ] Dialogs.xml
 - [ ] HDDPartition.xml
 
 IconEdit_0/
