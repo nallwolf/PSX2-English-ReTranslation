@@ -98,7 +98,7 @@ pvrReEnco_0/
 - [ ] dic/en.dic
 
 pvrVideoApp_0/
-- [ ] art/
+- [x] art/
 - [ ] dic/en.dic
 - [ ] pvrVideoApp.xml
 
