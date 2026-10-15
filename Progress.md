@@ -210,6 +210,8 @@ xOSK_0/
 - [ ] dic/en.dic
 - [ ] xOSK.xml
 
-# Extended Support
+# Extended Support - To be done once every checkbox above is checked
 
+- [ ] Re-check control panel/options labels for consistency across different packages
 - [ ] Attempt to convert hard-coded XML strings to use .dic files
+- [ ] Add support for using separate image files for Japanese and English where needed
